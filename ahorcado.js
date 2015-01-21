@@ -10,6 +10,7 @@ var Ahorcado = function(con)
 
     this.dibujar();
 }
+//esto se va a cargar 
 Ahorcado.prototype.dibujar =function()
 {
 	var dibujo = this.contexto;
